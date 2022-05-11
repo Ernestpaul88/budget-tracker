@@ -33,3 +33,4 @@ A budget tracker application that allows you to add expenses and deposits to you
 
 ## Deployed Page:
 
+https://earn-budget-tracker.herokuapp.com/
